@@ -23,8 +23,8 @@ object Szczurek {
     println("wartosc z: " + z)
     println("____________++++++++++++++++_______________")
     val p = List(1, 2, 3, 4, 5, 6, 7)
-    for (e <- x) {
-      println(e)
+    for (p <- x) {
+      println(p)
     }
     println("____________++++++++++++++++_______________")
     println("Multi loop test : ")
